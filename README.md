@@ -29,7 +29,7 @@ IRIN_1 is attached to 2 interrupts on the Arduino, so that the Arduino can detec
 ## 3D printed parts
 
 I designed the parts in Fusion 360 and exported them as STLs.
-The recomended print settings I would use are:
+The recommended print settings I would use are:
 - 0.1mm layer height
 - Black PLA plastic worked best
 
