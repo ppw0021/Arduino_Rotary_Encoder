@@ -1,6 +1,6 @@
 # DIY Arduino Rotary Encoder
 
-This project is a simple optical rotary encoder with 180 points per rotation and bi directional detection. This Arduino Rotary Encoder is intended to work with an Arduino (UNO, Leonardo, Micro, 328p etc) microcontroller but it should work with just about anything with interrupt pins and ADC conversion.
+This project is a DIY simple optical rotary encoder with 180 points per rotation and bi directional detection that you can make at home with a 3D printer. This Arduino Rotary Encoder is intended to work with an Arduino (UNO, Leonardo, Micro, 328p etc) microcontroller but it should work with just about anything with interrupt pins and ADC conversion.
 Here is a link to a youtube video with a demonstration: https://youtu.be/daqNxK5K_lY?si=LTv_Ti82yJfRsbe6
 
 ## Description
