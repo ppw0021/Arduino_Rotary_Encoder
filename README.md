@@ -26,9 +26,16 @@ These tiny slits are offset by half a slot so that if IRIN_1 goes high, IRIN_2 w
 
 IRIN_1 is attached to 2 interrupts on the Arduino, so that the Arduino can detect if IRIN_1 is going high or low and check IRIN_2 as soon as either interupt is triggered.
 
+## 3D printed parts
+
+I designed the parts in Fusion 360 and exported them as STLs.
+The recomended print settings I would use are:
+- 0.1mm layer height
+- Black PLA plastic worked best
+
 ## Assembly
 
-3D print the parts, and assemble the encoder as shown below.
+Assemble the encoder as shown below.
 
 ![Assembly Diagram](https://i.imgur.com/xdQJD8J.png)
 (Please note that this diagram shows the encoder disk with 180 slots, this was changed to 90 in the current version)
