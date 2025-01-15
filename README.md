@@ -37,7 +37,7 @@ The recommended print settings I would use are:
 
 Assemble the encoder as shown below.
 
-![Assembly Diagram](https://i.imgur.com/xdQJD8J.png)
+![image](https://github.com/user-attachments/assets/e502f8dd-469b-4838-ab4e-967cb6576de7)
 (Please note that this diagram shows the encoder disk with 180 slots, this was changed to 90 in the current version)
 
 To wire the encoder together, follow the circuit diagram below.
